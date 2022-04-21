@@ -1,1 +1,1 @@
-"# maven-proj" 
+"# maven-project" 
